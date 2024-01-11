@@ -7,7 +7,7 @@ const Character = ({ family, fullName, imageUrl, title }) => {
             <div className="card-body">
                 <h2>{ title } { fullName } of { family }</h2>
             </div>
-        </div>
+         </div>
     );
 };
 
